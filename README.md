@@ -18,3 +18,11 @@
 
 ## How Java Passes Parameters
 Java passes parameters by value, meaning a copy of the variable is sent to methods.
+
+## ModularCalculator Class file
+ * A simple modular calculator demonstrating:
+ *  Method overloading
+ *  Return values vs void
+ *  Pass-by-value behavior in Java
+ *  Exception handling (divide by zero)
+ *  Reusable utility methods 
